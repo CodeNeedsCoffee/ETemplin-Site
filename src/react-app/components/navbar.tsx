@@ -14,7 +14,7 @@ export const Navbar = () => {
         <HeroUINavbar
             maxWidth="xl"
             position="sticky"
-            className="border-none bg-background/60 dark:bg-default-100/50 backdrop-blur-md shadow-sm supports-[backdrop-filter]:bg-background/40"
+            className="border-none bg-background/60 dark:bg-default-100/50 shadow-sm supports-[backdrop-filter]:bg-background/40"
         >
             <NavbarContent
                 className="hidden sm:flex basis-1/5 sm:basis-full"
